@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color: pink;">Hi Jensen!</h1>
+<span>
+<h3>
+<label>Anh có yêu em không?</label>
+<select>
+<option>Có chứ, yêu nhiều lắm</option>
+<option>Như trên</option>
+</select>
+</span>
+</h3>
+</body>
+</html>
